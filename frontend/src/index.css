@@ -5,16 +5,17 @@
 }
 
 * {
-    box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 }
 
-html, body {
-    background-color: #E5E5E5;
+html,
+body {
+  background-color: #E5E5E5;
 }
 
-a, a:hover {
+a,
+a:hover {
   text-decoration: none;
   color: unset;
 }
-
