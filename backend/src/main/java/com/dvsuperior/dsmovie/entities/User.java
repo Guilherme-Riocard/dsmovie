@@ -12,6 +12,7 @@ public class User {
 	@javax.persistence.Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long Id;
+	
 	private String email;
 
 	public User() {
